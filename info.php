@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-return 13;
+echo 123321;
 ?>
